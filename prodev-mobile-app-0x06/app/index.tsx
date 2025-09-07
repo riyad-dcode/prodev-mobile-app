@@ -1,6 +1,6 @@
 import { SafeAreaView, SafeAreaProvider } from "react-native-safe-area-context";
 import { ImageBackground, Dimensions, View, Text, TouchableOpacity, Image } from "react-native"
-import { styles } from "@/styles/_mainstyle";
+import { styles } from "@/styles";
 
 <SafeAreaProvider>
   <SafeAreaView style={{ flex: 1 }}>
